@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="900" viewBox="0 0 600 900" role="img" aria-label="Portada genérica">
+  <defs><linearGradient id="g" x2="1" y2="1"><stop stop-color="#263c55"/><stop offset="1" stop-color="#101a2a"/></linearGradient><pattern id="p" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M0 0h44v44H0z" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern></defs>
+  <rect width="600" height="900" fill="url(#g)"/><rect width="600" height="900" fill="url(#p)"/>
+  <circle cx="300" cy="365" r="135" fill="none" stroke="#e9ba63" stroke-width="12" opacity=".8"/><circle cx="300" cy="365" r="24" fill="#e9ba63"/>
+  <circle cx="300" cy="270" r="33" fill="#e9ba63" opacity=".65"/><circle cx="395" cy="365" r="33" fill="#e9ba63" opacity=".65"/><circle cx="300" cy="460" r="33" fill="#e9ba63" opacity=".65"/><circle cx="205" cy="365" r="33" fill="#e9ba63" opacity=".65"/>
+  <path d="M95 575h410" stroke="#e9ba63" stroke-width="3" opacity=".5"/><text x="300" y="645" text-anchor="middle" fill="#f5f7fb" font-family="Arial,sans-serif" font-weight="bold" font-size="46">CineDiario</text><text x="300" y="690" text-anchor="middle" fill="#b9c7d6" font-family="Arial,sans-serif" font-size="22" letter-spacing="4">MI DIARIO DE CINE</text>
+</svg>
