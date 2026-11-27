@@ -22,7 +22,7 @@ class PeliculaController extends Controller
 
         $query = Pelicula::query();
         if (!empty($filtros['buscar'])) {
-            $query->where('titulo', 'like', '%'.$filtros['buscar'].'%');
+            $query->whereLike('titulo', '%'.$filtros['buscar'].'%');
         }
         if (!empty($filtros['genero'])) {
             $query->where('genero', $filtros['genero']);

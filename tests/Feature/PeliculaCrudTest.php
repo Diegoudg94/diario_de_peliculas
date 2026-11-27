@@ -58,6 +58,7 @@ class PeliculaCrudTest extends TestCase
 
         $this->get('/peliculas')->assertOk()->assertSee('8.0')->assertSee('Alfa')->assertSee('Beta');
         $this->get('/peliculas?buscar=Alfa')->assertOk()->assertSee('1 resultado')->assertSee('Editar Alfa')->assertDontSee('Editar Beta');
+        $this->get('/peliculas?buscar=alfa')->assertOk()->assertSee('1 resultado')->assertSee('Editar Alfa');
         $this->get('/peliculas?genero=Comedia')->assertOk()->assertSee('1 resultado')->assertSee('Editar Beta')->assertDontSee('Editar Alfa');
         $this->get('/peliculas?orden=mejor')->assertOk()->assertSeeInOrder(['Alfa', 'Beta']);
     }

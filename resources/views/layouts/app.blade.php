@@ -36,8 +36,9 @@
             <div class="row gy-3 align-items-start">
                 <div class="col-md-6"><div class="footer-brand"><i class="bi bi-film" aria-hidden="true"></i> CineDiario</div><p class="mb-0">Proyecto final · Licenciatura en Diseño de Sistemas Web<br>Conceptualización de Servicios en Nube</p></div>
                 <div class="col-md-6"><div class="footer-title">Servicios en la nube</div><div class="d-flex flex-wrap gap-3 footer-links">
-                    <a href="https://github.com/" target="_blank" rel="noopener noreferrer">GitHub <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
-                    <a href="https://railway.com/" target="_blank" rel="noopener noreferrer">Railway <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
+                    <a href="https://github.com/Diegoudg94/diario_de_peliculas" target="_blank" rel="noopener noreferrer">GitHub <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
+                    <a href="https://render.com/" target="_blank" rel="noopener noreferrer">Render <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
+                    <a href="https://neon.com/" target="_blank" rel="noopener noreferrer">Neon <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
                     <a href="https://www.imdb.com/" target="_blank" rel="noopener noreferrer">IMDb <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
                     <a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">YouTube <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>
                     <a href="https://www.justwatch.com/mx" target="_blank" rel="noopener noreferrer">JustWatch <i class="bi bi-box-arrow-up-right" aria-hidden="true"></i></a>

@@ -1,4 +1,6 @@
 .env
+.env.*
+!.env.example
 .env.backup
 .env.production
 /vendor/
@@ -6,3 +8,5 @@
 /database/*.sqlite
 /bootstrap/cache/*.php
 /storage/*.key
+/.phpunit.result.cache
+/storage/logs/*.log
